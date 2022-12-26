@@ -16,19 +16,14 @@ https://notes.zander.wtf/ios-safari-height-bug
   }
 }
 
-main {
-  flex-grow: 1;
-  /* height: 200vh; */
-  padding-top: 5em;
-  background: slateblue;
-}
+
 footer {
-  background: skyblue;
+  /* background: skyblue; */
   height: 5em;
 }
 
 .max-width {
-  background: rgba(0, 0, 0, 0.5);
+  /* background: rgba(0, 0, 0, 0.5); */
   width: min(calc(var(--max-width) * 1rem), 100%);
   margin: auto;
 }
